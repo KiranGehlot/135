@@ -1,0 +1,22 @@
+body{
+    background-size: cover;
+    font-family: cursive;
+}
+
+.heading {
+    width: 100%;
+    font-weight: 800;
+    font-size: 30px;
+    color: black;
+}
+
+.note{
+    width: 100%;
+    font-weight: 500;
+    font-size: 20px;
+    color: black;
+}
+
+#input{
+    width: 200px;
+}
